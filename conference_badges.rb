@@ -13,26 +13,14 @@ end
 end
 
 
-#ef assign_rooms(array, counter)
- #ew_array = []
- #ounter = l 
- #rray.each do |name|
- #ew_array.push("Hello, #{name}! You'll be assigned to room #{counter}!")
- #ounter += 10 
-#3d
-#return new_array
-#nd
-
-
 def assign_rooms(array)
-nuarray = []
-	  counter = 1
-	  array.each do |name|
-    nuarray.push("Hello, #{name}! You'll be assigned to room #{counter}!")
-	    counter += 1
-  end
-  return nuarray
-	end
+new_array = []
+    counter = l
+    array.each do |name|
+      new_array.push("Hello, #{name}! You'll be assigned to room #{counter}")
+end
+  return new_array
+end
 
 
 
