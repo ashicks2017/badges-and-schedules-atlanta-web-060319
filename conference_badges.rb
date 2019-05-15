@@ -13,5 +13,5 @@ end
 #end
 speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus"]
 def batch_badge_creator(staff)
-
+staff.each do |staff|
 end
