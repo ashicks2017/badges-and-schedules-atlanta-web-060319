@@ -24,6 +24,15 @@ end
 end
 
 
+def assign_rooms(array)
+narray = []
+	  counter = 1
+	  array.each do |name|
+    nuarray.push("Hello, #{name}! You'll be assigned to room #{counter}!")
+	    counter += 1
+  end
+  return nuarray
+	end
 
 
 
