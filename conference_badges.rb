@@ -1,5 +1,4 @@
-
-write your code 
+array = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus"]
 def badge_maker(name)
   return "Hello, my name is #{name}."
 end
