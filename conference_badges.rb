@@ -13,14 +13,14 @@ end
 end
 
 
-def assign_rooms(array, counter)
- new_array = []
- counter = l 
+#ef assign_rooms(array, counter)
+ #ew_array = []
+ #ounter = l 
  array.each do |name|
- new_array.push("Hello, #{name}! You'll be assigned to room #{counter}!")
- counter += 10 
-end
- return new_array
+ #ew_array.push("Hello, #{name}! You'll be assigned to room #{counter}!")
+ #ounter += 10 
+#3d
+#return new_array
 end
 
 
