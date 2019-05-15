@@ -12,8 +12,8 @@ end
 # return new_array
 #end
 speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus"]
-def batch_badge_creator(staff)
-staff.each do |staff_member|
+def batch_badge_creator(speakers)
+speakers.each do |staff_member|
 puts"Hello, my name is #{staff_member}."
 end
 end
