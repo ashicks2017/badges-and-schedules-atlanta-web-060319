@@ -24,7 +24,7 @@ def assign_rooms(array)
  return new
 
  end
-
+end
 
 
 
