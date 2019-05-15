@@ -13,6 +13,14 @@ end
 end
 
 
-def assign_rooms()
-  
+def assign_rooms(speaker,counter)
+ counter = l 
 end
+
+#def brother_meth(brother, counter)
+#counter = 1
+#brother.each do |brother_name|
+ # puts "This is loop number #{counter}"
+##puts "Stop hitting yourself #{brother}!"
+  # += 1
+#end
