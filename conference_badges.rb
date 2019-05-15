@@ -13,7 +13,7 @@ end
 end
 
 
-def assign_rooms(array)
+def assign_rooms(array, counter)
  new_array = []
  counter = l 
  array.each do |name|
