@@ -21,7 +21,7 @@ end
  #ounter += 10 
 #3d
 #return new_array
-end
+#nd
 
 
 def assign_rooms(array)
