@@ -23,7 +23,9 @@ end
  return new_array
 end
 
-def 
+def printer(array)
+  batch_badge_creator
+end
 
 
 
