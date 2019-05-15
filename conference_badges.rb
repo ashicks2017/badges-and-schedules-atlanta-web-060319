@@ -16,7 +16,7 @@ end
 #ef assign_rooms(array, counter)
  #ew_array = []
  #ounter = l 
- array.each do |name|
+ #rray.each do |name|
  #ew_array.push("Hello, #{name}! You'll be assigned to room #{counter}!")
  #ounter += 10 
 #3d
