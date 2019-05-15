@@ -12,4 +12,6 @@ end
 # return new_array
 #end
 speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus"]
-def batch_badge_creator()
+def batch_badge_creator(staff)
+
+end
